@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GagaHealth/static/css/main.c26db2c2.css",
+    "main.js": "/GagaHealth/static/js/main.6b6be549.js",
+    "static/js/787.6fa75cdf.chunk.js": "/GagaHealth/static/js/787.6fa75cdf.chunk.js",
+    "index.html": "/GagaHealth/index.html",
+    "main.c26db2c2.css.map": "/GagaHealth/static/css/main.c26db2c2.css.map",
+    "main.6b6be549.js.map": "/GagaHealth/static/js/main.6b6be549.js.map",
+    "787.6fa75cdf.chunk.js.map": "/GagaHealth/static/js/787.6fa75cdf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c26db2c2.css",
+    "static/js/main.6b6be549.js"
+  ]
+}
